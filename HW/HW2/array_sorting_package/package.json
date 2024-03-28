@@ -1,0 +1,12 @@
+{
+  "name": "array_sorting_package",
+  "version": "1.0.0",
+  "description": "Array sorting functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrey528",
+  "license": "ISC"
+}

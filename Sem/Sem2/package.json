@@ -1,0 +1,16 @@
+{
+  "name": "sem2",
+  "version": "1.0.0",
+  "description": "1) Необходимо найти, установить и применить библиотеку, которая позволит избежать проблем со сложением и умножением чисел с плавающей запятой.\r 2)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "number-precision": "^1.6.0"
+  }
+}
