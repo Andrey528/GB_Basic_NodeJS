@@ -1,0 +1,17 @@
+{
+  "name": "lk4",
+  "version": "1.0.0",
+  "description": "- Что такое шаблонизаторы и для чего они нужны;\r - Что такое API и при чем тут REST;\r - Тестирование своего API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "handlebars": "^4.7.8"
+  }
+}

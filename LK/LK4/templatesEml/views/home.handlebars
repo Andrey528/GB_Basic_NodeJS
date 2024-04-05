@@ -1,0 +1,9 @@
+<h1>Articles list</h1>
+{{#each articles}}
+    <h2>{{this.title}}</h2>
+    {{#if this.bold}}
+        <b>{{this.description}}</b>
+    {{else}}
+        <p>{{this.description}}</p>
+    {{/if}}
+{{/each}}
